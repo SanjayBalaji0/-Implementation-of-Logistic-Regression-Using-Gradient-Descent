@@ -107,9 +107,9 @@ print(y_prednew)
 
 ## Output:
 ### Dataset
-![image](https://github.com/SanjayBalaji0/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145533553/1457c40d-7fa4-42cc-94c7-479fcdaf23cd)
-### Dataset.dtypes
 ![image](https://github.com/SanjayBalaji0/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145533553/8040b2a6-d590-44c0-84a0-1ebeae4212c7)
+### Dataset.dtypes
+![image](https://github.com/SanjayBalaji0/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145533553/1457c40d-7fa4-42cc-94c7-479fcdaf23cd)
 ### Dataset
 ![image](https://github.com/SanjayBalaji0/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145533553/f5a9820d-9777-481c-8ba7-38d650ace909)
 ### Y
